@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1795629987 source:e:\ammar\c journey\c-clinic_waiting_room\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1795628789 e:\ammar\c journey\c-clinic_waiting_room\functions.h
+	"struct.h"
+	"readline.h"
+
+1795626452 e:\ammar\c journey\c-clinic_waiting_room\struct.h
+
+1795123752 e:\ammar\c journey\c-clinic_waiting_room\readline.h
+
+1795630233 source:e:\ammar\c journey\c-clinic_waiting_room\linked_list.c
+	<stdlib.h>
+	<stdio.h>
+	"linked_list.h"
+
+1795628897 e:\ammar\c journey\c-clinic_waiting_room\linked_list.h
+	"struct.h"
+
+1795125445 source:e:\ammar\c journey\c-clinic_waiting_room\readline.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"readline.h"
+	"debug_f.h"
+
+1795124318 e:\ammar\c journey\c-clinic_waiting_room\debug_f.h
+
+1795629574 source:e:\ammar\c journey\c-clinic_waiting_room\main.c
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+	"functions.h"
+	"linked_list.h"
+
